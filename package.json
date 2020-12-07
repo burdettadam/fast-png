@@ -62,8 +62,8 @@
     "typescript": "^3.7.2"
   },
   "dependencies": {
-    "@types/pako": "github:burdettadam/iobuffer#master",
-    "iobuffer": "^5.0.2",
+    "@types/pako": "^1.0.1",
+    "iobuffer": "burdettadam/iobuffer#master",
     "pako": "^1.0.10"
   },
   "prettier": {
