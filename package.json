@@ -62,7 +62,7 @@
     "typescript": "^3.7.2"
   },
   "dependencies": {
-    "@types/pako": "^1.0.1",
+    "@types/pako": "github:burdettadam/iobuffer#master",
     "iobuffer": "^5.0.2",
     "pako": "^1.0.10"
   },
